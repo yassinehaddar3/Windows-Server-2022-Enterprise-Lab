@@ -49,4 +49,4 @@ This project demonstrates the deployment, configuration, and troubleshooting of 
 6.  **Broken Trust Relationship:** Repaired a broken secure channel between the Windows 10 workstation and the Domain Controller using the PowerShell cmdlet `Test-ComputerSecureChannel -Repair` without unjoining the domain.
 
 ---
-*Created by [Your Name/Username] - Aspiring System and Network Administrator.*
+*Created by [Yassine Haddar] - Aspiring System and Network Administrator.*
